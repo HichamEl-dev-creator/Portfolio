@@ -8,8 +8,6 @@
 [![GitHub commits](https://img.shields.io/github/commit-activity/t/ladunjexa/reactjs18-3d-portfolio?style=social&logo=github)](https://github.com/ladunjexa/reactjs18-3d-portfolio/commits)
 [![Pull requests](https://img.shields.io/github/issues-pr/ladunjexa/reactjs18-3d-portfolio?style=social&logo=github)](https://github.com/ladunjexa/reactjs18-3d-portfolio/pulls)
 
-![demo](.github/README_ASSETS/3d-portfolio.png)
-
 [![ladunjexa](https://custom-icon-badges.demolab.com/badge/made%20by%20-ladunjexa-556bf2?logo=github&logoColor=white&labelColor=101827)](https://github.com/luadnjexa)
 [![License](https://img.shields.io/github/license/ladunjexa/reactjs18-3d-portfolio?color=dddddd&labelColor=000000)](https://github.com/ladunjexa/reactjs18-3d-portfolio/blob/main/LICENSE)
 [![Top Language](https://img.shields.io/github/languages/top/ladunjexa/reactjs18-3d-portfolio?logo=github&logoColor=%23007ACC&label=TypeScript)](https://www.typescriptlang.org/)
@@ -298,12 +296,6 @@ possible:
 - [Vercel](https://vercel.com/)
 - [JavaScript Mastery](https://www.jsmastery.pro/)
 
-## 📞 Contact Us
-
-[![Telegram](https://img.shields.io/badge/Telegram-@ladunjexa-2CA5E0?style=social&logo=telegram&logoColor=000000)](https://t.me/ladunjexa)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ladunjexa-blue?style=flat&logo=linkedin&logoColor=b0c0c0&labelColor=363D44)](https://www.linkedin.com/in/lironabutbul)
-[![Instagram](https://img.shields.io/badge/Instagram-ladunjexa-grey?style=flat&logo=instagram&logoColor=b0c0c0&labelColor=8134af)](https://www.instagram.com/ladunjexa)
-[![Discord](https://img.shields.io/badge/Discord-ladunjexa-7289da?style=flat&logo=discord&logoColor=b0c0c0&labelColor=2c2f33)](https://discord.com/users/827996364331810816)
 
 <!-- [![Twitter](https://img.shields.io/twitter/follow/ladunjexa.svg?style=social)](https://twitter.com/intent/follow?screen_name=ladunjexa) -->
 

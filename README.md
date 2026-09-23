@@ -17,11 +17,6 @@
 ![deployment](https://img.shields.io/github/deployments/ladunjexa/reactjs18-3d-portfolio/Production?logo=vercel&label=Website)
 [![Known Vulnerabilities](https://snyk.io/test/github/ladunjexa/reactjs18-3d-portfolio/badge.svg)](https://snyk.io/test/github/ladunjexa/reactjs18-3d-portfolio)
 
-## 🌐 Live Demo
-
-Explore the live demonstration of the project:
-[reactjs18-3d-portfolio](https://reactjs18-3-d-portfolio.vercel.app/)
-
 ## 📝 Description
 
 **3D Portfolio** is a well-designed and fully functional portfolio website that is built with
